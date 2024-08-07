@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfiḷ 🖤
 
-<!--
-**dripereira05/dripereira05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Adriele Raissa
 
-Here are some ideas to get you started:
+-Estou estudando na alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo na linguagem javaScript
+
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### você pode entrar em contado comigo 📫
+
+00001214295319sp@aluno.educacao.sp.gov.br
+
+
